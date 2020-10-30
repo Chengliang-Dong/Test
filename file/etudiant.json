@@ -1,0 +1,1 @@
+{"id":123,"nom":"Zaier","prenom":"Zied","moyenne":73.44,"actif":true,"adresse":{"numero":80,"rue":"BDEB","codePostal":"H3S-1K9"},"listeCours":[{"sigle":"A18","titre":"Jenkins","resultat":80.88},{"sigle":"A10","titre":"BD insterface","resultat":50.88}]}

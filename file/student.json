@@ -1,0 +1,29 @@
+{
+	"student_id": 12345678,
+	"first_name": "Zied",
+	"last_name": "Zaier",
+	"date_birth": "1 January 1999",
+	"active": true,
+	"GPA": 3.7,
+	"results": [{
+		"course_id": "201-C05-GA",
+		"course_title": "Applied Mathematics",
+		"mark": 3.5
+	}, {
+		"course_id": "420-ENH-MT",
+		"course_title": "Introduction to Mobile Programming",
+		"mark": 4.3
+	}, {
+		"course_id": "420-ENL-MT",
+		"course_title": "Databases And Data Structures",
+		"mark": 3.2
+	}, {
+		"course_id": "420-ENM-MT",
+		"course_title": "Algorithms, Pseudocode And Design",
+		"mark": 3.1
+	}, {
+		"course_id": "420-ENU-MT",
+		"course_title": "DEBUGGING PROGRAMS",
+		"mark": 3.7
+	}]
+}
